@@ -2,7 +2,22 @@
 
 This paper asseses whether Large Language Models (LLMs) adhere to Jürgen Habermas's Ideal Speech Situation principles during unconstrained debates, and whether explicitly constraining LLMs with ideal speech rules affects consensus formation and epistemic quality.
 
-## Files Descriptions
+## Repository Structure
+| File/Folder | Description |
+|-------------|-------------|
+| `analysis_graphs/` | Visualization outputs showing consensus scores, validity claims, and behavioral indicators across setups |
+| `argum_transcripts/` | Debate transcripts from Setup 1 (Argum.AI structured debates, n=10) |
+| `debate_transcripts/` | Debate transcripts from Setup 3 (ideal speech-constrained free-flowing debates, n=10) |
+| `debatewithoutconstraints_transcripts/` | Debate transcripts from Setup 2 (unconstrained free-flowing debates, n=10) |
+| `results/` | Analysis outputs including consensus detection scores and ideal speech adherence metrics for all setups |
+| `README.md` | README for documentation and overview |
+| `analysis.py` | Python script for analyzing ideal speech adherence in a single debate transcript |
+| `batch_analysis.py` | Python script for analyzing ideal speech adherence across multiple debate transcripts |
+| `consensus_detection.py` | Python script for detecting consensus formation in single or batch debate transcripts |
+| `debate.py` | Python script to simulate three-agent debates under ideal speech rule constraints |
+| `debate_withoutidealspeechconstraints.py` | Python script to simulate three-agent unconstrained debates with minimal instructions |
+| `topics.txt` | List of 10 debate topics used across all experimental conditions |
+| `haebarmas_ideal_discourse.pdf` | PDF of Research Paper |
 
 ## Research Questions
 - In unconstrained debate between LLM agents, are ideal speech principles followed?
