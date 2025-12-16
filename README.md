@@ -57,7 +57,8 @@ Debate transcripts from all 3 setups were analyzed on two primary dimensions:
 - There is consistency with previous litearture i.e. the near-total absence of questions (mean: 1.4 per debate) mirrors Prasad and Nguyen's (2025) documentation of LLM overconfidence in debates, where agents fail to seek clarification or acknowledge uncertainty. The minimal opponent acknowledgment (mean: 0.6 per debate) reflects Taubenfeld et al.’s (2024) finding that LLMs conform to inherent biases despite role assignments. The lack of evidence citation (mean: 0.8 per debate) corroborates Breum et al.’s (2024) observation that LLMs may leverage stylistic patterns rather than substantive reasoning.
 - In some cases there was unequal participation. Whether this reflects natural discourse dynamics or violates Habermasian equality principles requires human judgment.
 
-
+[Alt text](analysis_graphs/figure1_consensus_comparison.png)
+[Alt text](path/to/image.png)
 
 ## Conclusions
 In unconstrained debate between LLM agents, are ideal speech principles followed?
