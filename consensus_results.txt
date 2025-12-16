@@ -1,0 +1,1022 @@
+ARGUM_TRANSCRIPTS
+Found 10 transcript files in argum_transcripts
+================================================================================
+
+Analyzing: argum_transcript_1.txt
+  Type: NO CONSENSUS
+  Score: 0.21
+
+Analyzing: argum_transcript_10.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_2.txt
+  Type: NO CONSENSUS
+  Score: 0.14
+
+Analyzing: argum_transcript_3.txt
+  Type: NO CONSENSUS
+  Score: 0.09
+
+Analyzing: argum_transcript_4.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_5.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_6.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_7.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_8.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: argum_transcript_9.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+================================================================================
+DETAILED REPORTS
+================================================================================
+
+================================================================================
+FILE: argum_transcript_1.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.21/1.0
+Total Turns: 6
+Speakers: Debater A - GPT-4o, Debater B - GPT-4o
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 4
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 2
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_10.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater A - Gemini 2.5 Pro, Debater B - Gemini 2.5 Pro
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 14
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_2.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.14/1.0
+Total Turns: 6
+Speakers: Debater A - GPT-4o, Debater B - GPT-4o
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 5
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 11
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_3.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.09/1.0
+Total Turns: 6
+Speakers: Qwen 3 Turbo (2025-04-28), Debater A - Qwen 3 Turbo (2025-04-28), Debater B - GPT-4o
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 3
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 6
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_4.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater B - Qwen 3 Turbo (2025-04-28), Debater A - GPT-4o
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 4
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 18
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_5.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater B - Qwen 3 Plus (2025-04-28), Debater A - Qwen Plus (2025-01-25)
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 7
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_6.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater A - Gemini 2.0 Flash, Debater B - Qwen Max (2025-01-25)
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 0
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 6
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_7.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater B - Qwen Turbo (2024-11-01), Debater A - Qwen Turbo (2024-11-01)
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 2
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 14
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_8.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 6
+Speakers: Debater A - Gemini 2.0 Flash, Debater B - GPT-4o
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 0
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 7
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: argum_transcript_9.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 5
+Speakers: Debater B - Qwen 3 Plus (2025-04-28), Debater A - Gemini 2.5 Pro
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 0
+  Synthesis attempts: 0
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 24
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+SUMMARY ACROSS ALL TRANSCRIPTS
+================================================================================
+
+Consensus Distribution:
+  NO CONSENSUS: 10
+
+Average Consensus Score: 0.04/1.0
+
+
+DEBATE_TRANSCRIPTS
+Found 10 transcript files in debate_transcripts
+================================================================================
+
+
+Analyzing: debate_transcript_1.txt
+  Type: STRONG CONSENSUS
+  Score: 1.00
+
+Analyzing: debate_transcript_10.txt
+  Type: STRONG CONSENSUS
+  Score: 0.91
+
+Analyzing: debate_transcript_2.txt
+  Type: MODERATE CONSENSUS
+  Score: 0.64
+
+Analyzing: debate_transcript_3.txt
+  Type: MODERATE CONSENSUS
+  Score: 0.54
+
+Analyzing: debate_transcript_4.txt
+  Type: PARTIAL CONSENSUS
+  Score: 0.35
+
+Analyzing: debate_transcript_5.txt
+  Type: MODERATE CONSENSUS
+  Score: 0.59
+
+Analyzing: debate_transcript_6.txt
+  Type: PARTIAL CONSENSUS
+  Score: 0.38
+
+Analyzing: debate_transcript_7.txt
+  Type: STRONG CONSENSUS
+  Score: 0.91
+
+Analyzing: debate_transcript_8.txt
+  Type: STRONG CONSENSUS
+  Score: 1.00
+
+Analyzing: debate_transcript_9.txt
+  Type: MODERATE CONSENSUS
+  Score: 0.62
+
+================================================================================
+DETAILED REPORTS
+================================================================================
+
+================================================================================
+FILE: debate_transcript_1.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: STRONG CONSENSUS
+Consensus Score: 1.00/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 21
+  Synthesis attempts: 7
+  Convergence statements: 0
+  Questions asked: 16
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 6
+
+Interpretation:
+  ✅ Strong evidence of consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_10.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: STRONG CONSENSUS
+Consensus Score: 0.91/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 17
+  Synthesis attempts: 4
+  Convergence statements: 0
+  Questions asked: 25
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 7
+
+Interpretation:
+  ✅ Strong evidence of consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_2.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: MODERATE CONSENSUS
+Consensus Score: 0.64/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 7
+  Synthesis attempts: 4
+  Convergence statements: 0
+  Questions asked: 21
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 10
+
+Interpretation:
+  ✅ Moderate consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_3.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: MODERATE CONSENSUS
+Consensus Score: 0.54/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 8
+  Synthesis attempts: 5
+  Convergence statements: 0
+  Questions asked: 13
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 14
+
+Interpretation:
+  ✅ Moderate consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_4.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: PARTIAL CONSENSUS
+Consensus Score: 0.35/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 8
+  Synthesis attempts: 2
+  Convergence statements: 0
+  Questions asked: 10
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 13
+
+Interpretation:
+  ⚠️  Partial consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_5.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: MODERATE CONSENSUS
+Consensus Score: 0.59/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 5
+  Synthesis attempts: 7
+  Convergence statements: 0
+  Questions asked: 12
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 14
+
+Interpretation:
+  ✅ Moderate consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_6.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: PARTIAL CONSENSUS
+Consensus Score: 0.38/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 12
+  Synthesis attempts: 5
+  Convergence statements: 0
+  Questions asked: 12
+
+Negative Indicators:
+  Disagreement phrases: 2
+  Opposition phrases: 15
+
+Interpretation:
+  ⚠️  Partial consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_7.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: STRONG CONSENSUS
+Consensus Score: 0.91/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 13
+  Synthesis attempts: 7
+  Convergence statements: 0
+  Questions asked: 20
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 15
+
+Interpretation:
+  ✅ Strong evidence of consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_8.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: STRONG CONSENSUS
+Consensus Score: 1.00/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 17
+  Synthesis attempts: 12
+  Convergence statements: 0
+  Questions asked: 15
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 7
+
+Interpretation:
+  ✅ Strong evidence of consensus
+
+================================================================================
+
+================================================================================
+FILE: debate_transcript_9.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: MODERATE CONSENSUS
+Consensus Score: 0.62/1.0
+Total Turns: 30
+Speakers: Riley, Jordan, Alex
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 8
+  Synthesis attempts: 6
+  Convergence statements: 0
+  Questions asked: 26
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 11
+
+Interpretation:
+  ✅ Moderate consensus
+
+================================================================================
+
+================================================================================
+SUMMARY ACROSS ALL TRANSCRIPTS
+================================================================================
+
+Consensus Distribution:
+  MODERATE CONSENSUS: 4
+  PARTIAL CONSENSUS: 2
+  STRONG CONSENSUS: 4
+
+Average Consensus Score: 0.69/1.0
+
+✓ Exported to: debate_transcripts/consensus_analysis.csv
+================================================================================
+
+DEBATEWITHOUTCONSTRAINTS_TRANSCRIPTS:
+Found 10 transcript files in debatewithoutconstraints_transcripts
+================================================================================
+
+
+Analyzing: debatewithoutconstraints_transcript_1.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_10.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_2.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_3.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_4.txt
+  Type: EXPLICIT DISAGREEMENT
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_5.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_6.txt
+  Type: EXPLICIT DISAGREEMENT
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_7.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+Analyzing: debatewithoutconstraints_transcript_8.txt
+  Type: NO CONSENSUS
+  Score: 0.16
+
+Analyzing: debatewithoutconstraints_transcript_9.txt
+  Type: NO CONSENSUS
+  Score: 0.00
+
+================================================================================
+DETAILED REPORTS
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_1.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 12
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 2
+  Building on points: 1
+  Synthesis attempts: 2
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 2
+  Opposition phrases: 13
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_10.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 2
+  Building on points: 0
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 2
+  Opposition phrases: 30
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_2.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 0
+  Synthesis attempts: 3
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 2
+  Opposition phrases: 24
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_3.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 0
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 0
+  Opposition phrases: 20
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_4.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: EXPLICIT DISAGREEMENT
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 2
+  Building on points: 0
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 1
+
+Negative Indicators:
+  Disagreement phrases: 12
+  Opposition phrases: 38
+
+Interpretation:
+  ❌ No consensus - explicit disagreement
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_5.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 17
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 1
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 2
+  Opposition phrases: 20
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_6.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: EXPLICIT DISAGREEMENT
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 1
+  Building on points: 0
+  Synthesis attempts: 0
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 6
+  Opposition phrases: 20
+
+Interpretation:
+  ❌ No consensus - explicit disagreement
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_7.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 1
+  Synthesis attempts: 1
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 25
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_8.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.16/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 0
+  Building on points: 1
+  Synthesis attempts: 10
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 22
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+FILE: debatewithoutconstraints_transcript_9.txt
+
+================================================================================
+CONSENSUS ANALYSIS
+================================================================================
+
+Consensus Type: NO CONSENSUS
+Consensus Score: 0.00/1.0
+Total Turns: 30
+Speakers: Alex, Riley, Jordan
+
+Positive Indicators:
+  Agreement phrases: 3
+  Building on points: 2
+  Synthesis attempts: 0
+  Convergence statements: 0
+  Questions asked: 0
+
+Negative Indicators:
+  Disagreement phrases: 1
+  Opposition phrases: 25
+
+Interpretation:
+  ❌ No consensus
+
+================================================================================
+
+================================================================================
+SUMMARY ACROSS ALL TRANSCRIPTS
+================================================================================
+
+Consensus Distribution:
+  EXPLICIT DISAGREEMENT: 2
+  NO CONSENSUS: 8
+
+Average Consensus Score: 0.02/1.0
+
+✓ Exported to: debatewithoutconstraints_transcripts/consensus_analysis.csv
+================================================================================
