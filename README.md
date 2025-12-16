@@ -65,7 +65,10 @@ Debate transcripts from all 3 setups were analyzed on two primary dimensions:
 - In some cases there was unequal participation. Whether this reflects natural discourse dynamics or violates Habermasian equality principles requires human judgment.
 
 ![Alt text](analysis_graphs/figure1_consensus_comparison.png)
-[Alt text](path/to/image.png)
+![Alt text](analysis_graphs/figure2_behavioral_indicators.png)
+![Alt text](analysis_graphs/figure3_validity_claims_radar.png)
+![Alt text](analysis_graphs/figure4_overall_adherence.png)
+![Alt text](analysis_graphs/figure5_validity_claims_grouped.png)
 
 ## Conclusions
 In unconstrained debate between LLM agents, are ideal speech principles followed?
