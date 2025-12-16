@@ -1,0 +1,11 @@
+filename,consensus_type,consensus_score,agreements,building,synthesis,convergence,questions,disagreements
+debatewithoutconstraints_transcript_1.txt,NO_CONSENSUS,0.00,2,1,2,0,0,2
+debatewithoutconstraints_transcript_10.txt,NO_CONSENSUS,0.00,2,0,1,0,0,2
+debatewithoutconstraints_transcript_2.txt,NO_CONSENSUS,0.00,1,0,3,0,0,2
+debatewithoutconstraints_transcript_3.txt,NO_CONSENSUS,0.00,1,0,1,0,0,0
+debatewithoutconstraints_transcript_4.txt,EXPLICIT_DISAGREEMENT,0.00,2,0,1,0,1,12
+debatewithoutconstraints_transcript_5.txt,NO_CONSENSUS,0.00,1,1,1,0,0,2
+debatewithoutconstraints_transcript_6.txt,EXPLICIT_DISAGREEMENT,0.00,1,0,0,0,0,6
+debatewithoutconstraints_transcript_7.txt,NO_CONSENSUS,0.00,0,1,1,0,0,1
+debatewithoutconstraints_transcript_8.txt,NO_CONSENSUS,0.16,0,1,10,0,0,1
+debatewithoutconstraints_transcript_9.txt,NO_CONSENSUS,0.00,3,2,0,0,0,1
