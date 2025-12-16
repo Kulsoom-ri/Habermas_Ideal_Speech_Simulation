@@ -1,0 +1,258 @@
+ARGUM_TRANSCRIPTS
+
+================================================================================
+✓ Successfully analyzed 10/10 debates
+================================================================================
+
+================================================================================
+INDIVIDUAL DEBATE SCORES
+================================================================================
+
+argum_transcript_1.txt
+  Ideal Speech Score: 44.7/100
+  Comprehensibility: 2.00 | Truth: 1.08 | Truthfulness: 2.00 | Rightness: 0.60 | Engagement: 1.00
+  Questions: 0 | Evidence: 3 | Acknowledgments: 0 | Dismissive: 3
+
+argum_transcript_10.txt
+  Ideal Speech Score: 49.3/100
+  Comprehensibility: 2.67 | Truth: 1.08 | Truthfulness: 2.00 | Rightness: 0.10 | Engagement: 1.92
+  Questions: 3 | Evidence: 3 | Acknowledgments: 0 | Dismissive: 16
+
+argum_transcript_2.txt
+  Ideal Speech Score: 39.9/100
+  Comprehensibility: 1.58 | Truth: 0.83 | Truthfulness: 2.00 | Rightness: 0.50 | Engagement: 1.00
+  Questions: 0 | Evidence: 2 | Acknowledgments: 0 | Dismissive: 2
+
+argum_transcript_3.txt
+  Ideal Speech Score: 40.0/100
+  Comprehensibility: 2.00 | Truth: 0.42 | Truthfulness: 2.05 | Rightness: 0.48 | Engagement: 1.25
+  Questions: 0 | Evidence: 1 | Acknowledgments: 0 | Dismissive: 2
+
+argum_transcript_4.txt
+  Ideal Speech Score: 37.7/100
+  Comprehensibility: 1.75 | Truth: 0.25 | Truthfulness: 2.15 | Rightness: 0.40 | Engagement: 1.25
+  Questions: 0 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 7
+
+argum_transcript_5.txt
+  Ideal Speech Score: 42.5/100
+  Comprehensibility: 1.42 | Truth: 1.00 | Truthfulness: 2.05 | Rightness: 0.68 | Engagement: 1.08
+  Questions: 0 | Evidence: 2 | Acknowledgments: 1 | Dismissive: 3
+
+argum_transcript_6.txt
+  Ideal Speech Score: 50.8/100
+  Comprehensibility: 2.17 | Truth: 1.50 | Truthfulness: 2.15 | Rightness: 0.50 | Engagement: 1.25
+  Questions: 0 | Evidence: 4 | Acknowledgments: 0 | Dismissive: 5
+
+argum_transcript_7.txt
+  Ideal Speech Score: 54.9/100
+  Comprehensibility: 1.92 | Truth: 2.42 | Truthfulness: 2.10 | Rightness: 0.40 | Engagement: 1.00
+  Questions: 0 | Evidence: 20 | Acknowledgments: 0 | Dismissive: 4
+
+argum_transcript_8.txt
+  Ideal Speech Score: 41.0/100
+  Comprehensibility: 1.83 | Truth: 0.58 | Truthfulness: 2.05 | Rightness: 0.73 | Engagement: 1.00
+  Questions: 0 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 2
+
+argum_transcript_9.txt
+  Ideal Speech Score: 53.0/100
+  Comprehensibility: 2.60 | Truth: 1.80 | Truthfulness: 2.00 | Rightness: 0.28 | Engagement: 1.30
+  Questions: 0 | Evidence: 3 | Acknowledgments: 0 | Dismissive: 6
+
+================================================================================
+AVERAGE ACROSS ALL DEBATES
+================================================================================
+
+Ideal Speech Adherence Score: 45.4/100
+
+Validity Claim Scores (0-3 scale):
+  Comprehensibility: 1.99
+  Truth: 1.10
+  Truthfulness: 2.06
+  Rightness: 0.47
+  Engagement: 1.21
+
+Truth-Seeking Behaviors:
+  Questions asked: 0 (avg per debate: 0.3)
+  Evidence citations: 3 (avg per debate: 3.8)
+  Acknowledgments of opponent: 0 (avg per debate: 0.1)
+  Contradictions detected: 0 (avg per debate: 0.0)
+
+Discourse Quality:
+  Topic continuity: 0.92
+  Dismissive phrases: 5 (avg per debate: 5.0)
+  Strategic rhetoric: 0.15
+
+
+  DEBATE_TRANSCRIPTS
+  ================================================================================
+✓ Successfully analyzed 10/10 debates
+================================================================================
+
+================================================================================
+INDIVIDUAL DEBATE SCORES
+================================================================================
+
+debate_transcript_1.txt
+  Ideal Speech Score: 51.4/100
+  Comprehensibility: 0.88 | Truth: 0.85 | Truthfulness: 2.00 | Rightness: 2.14 | Engagement: 1.80
+  Questions: 20 | Evidence: 2 | Acknowledgments: 70 | Dismissive: 1
+
+debate_transcript_10.txt
+  Ideal Speech Score: 46.0/100
+  Comprehensibility: 0.68 | Truth: 0.80 | Truthfulness: 2.01 | Rightness: 1.45 | Engagement: 1.90
+  Questions: 29 | Evidence: 0 | Acknowledgments: 38 | Dismissive: 15
+
+debate_transcript_2.txt
+  Ideal Speech Score: 43.2/100
+  Comprehensibility: 0.88 | Truth: 0.75 | Truthfulness: 2.00 | Rightness: 1.13 | Engagement: 1.67
+  Questions: 29 | Evidence: 1 | Acknowledgments: 21 | Dismissive: 10
+
+debate_transcript_3.txt
+  Ideal Speech Score: 42.8/100
+  Comprehensibility: 0.95 | Truth: 0.87 | Truthfulness: 2.00 | Rightness: 1.05 | Engagement: 1.43
+  Questions: 16 | Evidence: 0 | Acknowledgments: 14 | Dismissive: 13
+
+debate_transcript_4.txt
+  Ideal Speech Score: 44.1/100
+  Comprehensibility: 0.87 | Truth: 1.08 | Truthfulness: 2.04 | Rightness: 0.92 | Engagement: 1.52
+  Questions: 17 | Evidence: 5 | Acknowledgments: 15 | Dismissive: 16
+
+debate_transcript_5.txt
+  Ideal Speech Score: 38.1/100
+  Comprehensibility: 0.50 | Truth: 0.52 | Truthfulness: 2.00 | Rightness: 1.03 | Engagement: 1.55
+  Questions: 26 | Evidence: 0 | Acknowledgments: 14 | Dismissive: 9
+
+debate_transcript_6.txt
+  Ideal Speech Score: 45.0/100
+  Comprehensibility: 0.90 | Truth: 0.75 | Truthfulness: 2.09 | Rightness: 1.25 | Engagement: 1.70
+  Questions: 32 | Evidence: 1 | Acknowledgments: 23 | Dismissive: 7
+
+debate_transcript_7.txt
+  Ideal Speech Score: 49.8/100
+  Comprehensibility: 0.83 | Truth: 1.20 | Truthfulness: 2.00 | Rightness: 1.46 | Engagement: 1.85
+  Questions: 26 | Evidence: 9 | Acknowledgments: 35 | Dismissive: 7
+
+debate_transcript_8.txt
+  Ideal Speech Score: 44.7/100
+  Comprehensibility: 0.85 | Truth: 0.75 | Truthfulness: 2.02 | Rightness: 1.34 | Engagement: 1.68
+  Questions: 20 | Evidence: 0 | Acknowledgments: 26 | Dismissive: 4
+
+debate_transcript_9.txt
+  Ideal Speech Score: 42.9/100
+  Comprehensibility: 0.97 | Truth: 0.88 | Truthfulness: 2.00 | Rightness: 0.89 | Engagement: 1.62
+  Questions: 31 | Evidence: 0 | Acknowledgments: 12 | Dismissive: 18
+
+================================================================================
+AVERAGE ACROSS ALL DEBATES
+================================================================================
+
+Ideal Speech Adherence Score: 44.8/100
+
+Validity Claim Scores (0-3 scale):
+  Comprehensibility: 0.83
+  Truth: 0.84
+  Truthfulness: 2.02
+  Rightness: 1.27
+  Engagement: 1.67
+
+Truth-Seeking Behaviors:
+  Questions asked: 24 (avg per debate: 24.6)
+  Evidence citations: 1 (avg per debate: 1.8)
+  Acknowledgments of opponent: 26 (avg per debate: 26.8)
+  Contradictions detected: 0 (avg per debate: 0.0)
+
+Discourse Quality:
+  Topic continuity: 0.89
+  Dismissive phrases: 10 (avg per debate: 10.0)
+  Strategic rhetoric: 0.59
+
+================================================================================
+✓ Summary exported to: debate_transcripts/batch_analysis_summary.csv
+================================================================================
+
+DEBATEWITHOUTCONSTRAINTS_TRANSCRIPTS
+================================================================================
+✓ Successfully analyzed 10/10 debates
+================================================================================
+
+================================================================================
+INDIVIDUAL DEBATE SCORES
+================================================================================
+
+debatewithoutconstraints_transcript_1.txt
+  Ideal Speech Score: 37.6/100
+  Comprehensibility: 0.96 | Truth: 0.67 | Truthfulness: 2.00 | Rightness: 0.80 | Engagement: 1.04
+  Questions: 0 | Evidence: 0 | Acknowledgments: 1 | Dismissive: 5
+
+debatewithoutconstraints_transcript_10.txt
+  Ideal Speech Score: 35.8/100
+  Comprehensibility: 0.73 | Truth: 0.62 | Truthfulness: 2.00 | Rightness: 0.73 | Engagement: 1.08
+  Questions: 6 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 17
+
+debatewithoutconstraints_transcript_2.txt
+  Ideal Speech Score: 38.1/100
+  Comprehensibility: 1.15 | Truth: 0.58 | Truthfulness: 2.00 | Rightness: 0.87 | Engagement: 1.00
+  Questions: 0 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 13
+
+debatewithoutconstraints_transcript_3.txt
+  Ideal Speech Score: 37.4/100
+  Comprehensibility: 0.98 | Truth: 0.67 | Truthfulness: 2.00 | Rightness: 0.79 | Engagement: 1.00
+  Questions: 0 | Evidence: 1 | Acknowledgments: 0 | Dismissive: 4
+
+debatewithoutconstraints_transcript_4.txt
+  Ideal Speech Score: 36.2/100
+  Comprehensibility: 0.70 | Truth: 0.55 | Truthfulness: 2.07 | Rightness: 0.82 | Engagement: 1.07
+  Questions: 4 | Evidence: 0 | Acknowledgments: 1 | Dismissive: 11
+
+debatewithoutconstraints_transcript_5.txt
+  Ideal Speech Score: 34.2/100
+  Comprehensibility: 0.76 | Truth: 0.47 | Truthfulness: 2.00 | Rightness: 0.72 | Engagement: 1.00
+  Questions: 0 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 4
+
+debatewithoutconstraints_transcript_6.txt
+  Ideal Speech Score: 38.1/100
+  Comprehensibility: 0.92 | Truth: 0.65 | Truthfulness: 2.04 | Rightness: 0.86 | Engagement: 1.07
+  Questions: 4 | Evidence: 0 | Acknowledgments: 0 | Dismissive: 9
+
+debatewithoutconstraints_transcript_7.txt
+  Ideal Speech Score: 41.1/100
+  Comprehensibility: 1.05 | Truth: 1.00 | Truthfulness: 2.00 | Rightness: 0.86 | Engagement: 1.02
+  Questions: 0 | Evidence: 7 | Acknowledgments: 1 | Dismissive: 7
+
+debatewithoutconstraints_transcript_8.txt
+  Ideal Speech Score: 38.4/100
+  Comprehensibility: 0.97 | Truth: 0.67 | Truthfulness: 2.03 | Rightness: 0.89 | Engagement: 1.03
+  Questions: 0 | Evidence: 0 | Acknowledgments: 2 | Dismissive: 6
+
+debatewithoutconstraints_transcript_9.txt
+  Ideal Speech Score: 37.3/100
+  Comprehensibility: 0.82 | Truth: 0.65 | Truthfulness: 2.00 | Rightness: 0.91 | Engagement: 1.02
+  Questions: 0 | Evidence: 0 | Acknowledgments: 1 | Dismissive: 6
+
+================================================================================
+AVERAGE ACROSS ALL DEBATES
+================================================================================
+
+Ideal Speech Adherence Score: 37.4/100
+
+Validity Claim Scores (0-3 scale):
+  Comprehensibility: 0.90
+  Truth: 0.65
+  Truthfulness: 2.01
+  Rightness: 0.83
+  Engagement: 1.03
+
+Truth-Seeking Behaviors:
+  Questions asked: 1 (avg per debate: 1.4)
+  Evidence citations: 0 (avg per debate: 0.8)
+  Acknowledgments of opponent: 0 (avg per debate: 0.6)
+  Contradictions detected: 0 (avg per debate: 0.0)
+
+Discourse Quality:
+  Topic continuity: 0.86
+  Dismissive phrases: 8 (avg per debate: 8.2)
+  Strategic rhetoric: 0.15
+
+================================================================================
+✓ Summary exported to: debatewithoutconstraints_transcripts/batch_analysis_summary.csv
+================================================================================
