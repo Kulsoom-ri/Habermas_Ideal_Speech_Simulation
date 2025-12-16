@@ -40,4 +40,7 @@ The third setup maintained the free-flowing structure but explicitly encoded Hab
 7. **No Fallacies**: Avoid ad hominem, strawman, and other logical fallacies
 8. **Evidence-Based**: Support claims with reasoning or evidence when possible
 
+## Analysis Methods
+
+
 ## Results
