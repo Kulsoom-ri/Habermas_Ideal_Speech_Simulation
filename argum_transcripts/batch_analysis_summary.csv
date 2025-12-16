@@ -1,0 +1,12 @@
+filename,ideal_speech_score,comprehensibility,truth,truthfulness,rightness,engagement,questions,evidence,acknowledgments,contradictions,dismissive,topic_continuity,strategic_rhetoric
+argum_transcript_1.txt,44.69,2.00,1.08,2.00,0.60,1.00,0,3,0,0,3,0.94,0.33
+argum_transcript_10.txt,49.28,2.67,1.08,2.00,0.10,1.92,3,3,0,0,16,0.94,0.00
+argum_transcript_2.txt,39.86,1.58,0.83,2.00,0.50,1.00,0,2,0,0,2,0.93,0.00
+argum_transcript_3.txt,40.03,2.00,0.42,2.05,0.48,1.25,0,1,0,0,2,0.90,0.00
+argum_transcript_4.txt,37.67,1.75,0.25,2.15,0.40,1.25,0,0,0,0,7,0.90,0.17
+argum_transcript_5.txt,42.47,1.42,1.00,2.05,0.68,1.08,0,2,1,0,3,0.91,0.17
+argum_transcript_6.txt,50.83,2.17,1.50,2.15,0.50,1.25,0,4,0,0,5,0.94,0.00
+argum_transcript_7.txt,54.89,1.92,2.42,2.10,0.40,1.00,0,20,0,0,4,0.93,0.83
+argum_transcript_8.txt,41.00,1.83,0.58,2.05,0.73,1.00,0,0,0,0,2,0.92,0.00
+argum_transcript_9.txt,53.03,2.60,1.80,2.00,0.28,1.30,0,3,0,0,6,0.90,0.00
+AVERAGE,45.38,1.99,1.10,2.06,0.47,1.21,0.30,3.80,0.10,0.00,5.00,0.92,0.15

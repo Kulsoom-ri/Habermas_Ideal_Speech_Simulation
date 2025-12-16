@@ -1,0 +1,11 @@
+filename,consensus_type,consensus_score,agreements,building,synthesis,convergence,questions,disagreements
+argum_transcript_1.txt,NO_CONSENSUS,0.21,0,0,4,0,0,0
+argum_transcript_10.txt,NO_CONSENSUS,0.00,0,0,1,0,0,0
+argum_transcript_2.txt,NO_CONSENSUS,0.14,0,0,5,0,0,0
+argum_transcript_3.txt,NO_CONSENSUS,0.09,0,0,3,0,0,0
+argum_transcript_4.txt,NO_CONSENSUS,0.00,0,0,4,0,0,1
+argum_transcript_5.txt,NO_CONSENSUS,0.00,0,0,1,0,0,1
+argum_transcript_6.txt,NO_CONSENSUS,0.00,0,0,0,0,0,0
+argum_transcript_7.txt,NO_CONSENSUS,0.00,0,0,2,0,0,0
+argum_transcript_8.txt,NO_CONSENSUS,0.00,0,0,0,0,0,0
+argum_transcript_9.txt,NO_CONSENSUS,0.00,0,0,0,0,0,0
