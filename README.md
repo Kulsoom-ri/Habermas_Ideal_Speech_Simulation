@@ -9,6 +9,13 @@ This paper asseses whether Large Language Models (LLMs) adhere to Jürgen Haberm
 - If LLM agents are constrained by the rules of ideal speech, is consensus more likely to appear?
 - Does ideal speech enforcement affect the epistemic quality of arguments exchanged (such as argument validity, evidential grounding and consideration of counterarguments)?
 
+## Overview
+30 debates are conducted across three experimental setups using 10 common debate topics. The first setup analyzed existing debates between agents published on the web. The second setup created unconstrained free-flowing debates with three LLM agents. The third setup replicated the free-flowing structure but explicitly constrained agents with 8 ideal speech rules derived from Habermas’s framework.
+
+Results show unconstrained debates systematically violate ideal speech principles, achieving 0 consensus, asking minimal questions and rarely acknowledging opponents. Explicit ideal speech constraints improved likelihood of consensus, question-asking and opponent acknowledgement. However, evidential grounding remained weak across all setups.
+
+There are significant limitations to this study, including the fundamental impossibility of LLMs satisfying Habermas's sincerity principle (asserting only genuine beliefs) since they lack beliefs. Despite these limitations, results demonstrate that explicit Habermasian constraints meaningfully alter LLM discourse patterns, suggesting that ideal speech rules do indeed lead to more consensus (at least in the virtual world) and indicate potential for AI-mediated deliberation systems that support democratic discourse principles.
+
 ## Experiment Design
 This research employed 3 experimental setups to examine ideal speech principle adherence and consensus formation in LLM debates. All three setups used the same 10 debate topics to enable direct comparison, with debates reaching similar overall lengths across conditions despite different structural constraints.
 
