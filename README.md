@@ -4,6 +4,11 @@ This paper asseses whether Large Language Models (LLMs) adhere to Jürgen Haberm
 
 ## Files Descriptions
 
+## Research Questions
+- In unconstrained debate between LLM agents, are ideal speech principles followed?
+- If LLM agents are constrained by the rules of ideal speech, is consensus more likely to appear?
+- Does ideal speech enforcement affect the epistemic quality of arguments exchanged (such as argument validity, evidential grounding and consideration of counterarguments)?
+
 ## Experiment Design
 This research employed 3 experimental setups to examine ideal speech principle adherence and consensus formation in LLM debates. All three setups used the same 10 debate topics to enable direct comparison, with debates reaching similar overall lengths across conditions despite different structural constraints.
 
@@ -44,3 +49,6 @@ The third setup maintained the free-flowing structure but explicitly encoded Hab
 
 
 ## Results
+
+## Conclusions
+
