@@ -88,16 +88,16 @@ Debate transcripts from all 3 setups were analyzed on two primary dimensions:
 ![Alt text](analysis_graphs/figure5_validity_claims_grouped.png)
 
 ## Conclusions
-In unconstrained debate between LLM agents, are ideal speech principles followed?
+#### In unconstrained debate between LLM agents, are ideal speech principles followed?
 
 **Conclusion 1:** LLM debates without ideal speech rules systematically violate Habermasian principles. They ask minimal questions, rarely acknowledge opponents and achieve zero consensus. Agents without ideal speech rules default to assertive, adversarial argumentation.
 
 
-If LLM agents are constrained by the rules of ideal speech, is consensus more likely to appear?
+#### If LLM agents are constrained by the rules of ideal speech, is consensus more likely to appear?
 
 **Conclusion 2:** Consensus is more likely to appear when LLM agents are constrained by the rules of ideal speech. Ideal speech-constrained debates achieved some sort of consensus in 100% of the cases, demonstrating that explicit Habermasian constraints create conditions for rationally motivated consensus.
 
 
-Does ideal speech enforcement improve the epistemic quality of arguments exchanged?
+#### Does ideal speech enforcement improve the epistemic quality of arguments exchanged?
 
 **Conclusion 3:** Ideal speech enforcement partially improved the epistemic quality of arguments being exchanged between agents. It substantially improved consideration of counterarguments and acknowledgment of opponents. However, grounding arguments in evidence remained weak across all setups. This could mean that procedural constraints enhance dialogue engagement but do not automatically enhance rigor of arguments.
