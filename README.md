@@ -46,6 +46,7 @@ Argum (Argum.ai 2024) is a platform that facilitates structured debates between 
 - Financial freedom: Focusing on passive income versus active investments
 - Does social media inspire more than it fosters competition?
 - You get a promotion that doubles your pay but triples your stress. Take the money or protect your sanity?
+
 Each debate here consisted of exactly 6 turns following a rigid format- 2 opening statements, 2 rebuttals, and 2 closing statements, with agents alternating turns. We do not have access to the system prompts used to initialize agents, so we cannot determine whether ideal speech principles were explicitly encoded. However, the structured format itself imposes procedural constraints on argumentation. Argum provided a baseline dataset to analyze whether ideal speech constraints were being followed by out-of-the-box LLMs and whether consensus was being reached.
 
 ### Setup 2: Unconstrained Free-Flowing Debate
@@ -53,6 +54,7 @@ To test whether ideal speech principles emerge naturally without explicit enforc
 Unlike Argum’s fixed structure, this setup implemented free-flowing debate consistent with Habermas’s principle of equal participation rights. After each statement, agents independently decided whether to speak and rated their confidence in this decision (0.0-1.0). Confidence ratings served two purposes:
 - They provided a measure of agents’ certainty about their participation choices, allowing analysis of whether agents exhibited the overconfidence patterns documented in previous LLM debate research (Prasad and Nguyen 2025)
 - They operationalized Habermas’s accountability principle by requiring agents to explicitly represent their level of conviction when choosing to speak or remain silent.
+
 All agents made opening statements to initiate debate. Subsequently, agents could speak when they chose, but could not speak consecutively: an agent who had just spoken was required to pass their next turn. This constraint prevented domination while preserving voluntary participation.
 Debates ended when 30 turns were reached, 5 minutes elapsed or all agents consecutively passed, indicating no further substantive contributions (an end had to be imposed due to computational resource constraints).
 
@@ -87,10 +89,15 @@ Debate transcripts from all 3 setups were analyzed on two primary dimensions:
 
 ## Conclusions
 In unconstrained debate between LLM agents, are ideal speech principles followed?
-Conclusion 1: LLM debates without ideal speech rules systematically violate Habermasian principles. They ask minimal questions, rarely acknowledge opponents and achieve zero consensus. Agents without ideal speech rules default to assertive, adversarial argumentation.
+
+**Conclusion 1:** LLM debates without ideal speech rules systematically violate Habermasian principles. They ask minimal questions, rarely acknowledge opponents and achieve zero consensus. Agents without ideal speech rules default to assertive, adversarial argumentation.
+
 
 If LLM agents are constrained by the rules of ideal speech, is consensus more likely to appear?
-Conclusion 2: Consensus is more likely to appear when LLM agents are constrained by the rules of ideal speech. Ideal speech-constrained debates achieved some sort of consensus in 100% of the cases, demonstrating that explicit Habermasian constraints create conditions for rationally motivated consensus.
+
+**Conclusion 2:** Consensus is more likely to appear when LLM agents are constrained by the rules of ideal speech. Ideal speech-constrained debates achieved some sort of consensus in 100% of the cases, demonstrating that explicit Habermasian constraints create conditions for rationally motivated consensus.
+
 
 Does ideal speech enforcement improve the epistemic quality of arguments exchanged?
-Conclusion 3: Ideal speech enforcement partially improved the epistemic quality of arguments being exchanged between agents. It substantially improved consideration of counterarguments and acknowledgment of opponents. However, grounding arguments in evidence remained weak across all setups. This could mean that procedural constraints enhance dialogue engagement but do not automatically enhance rigor of arguments.
+
+**Conclusion 3:** Ideal speech enforcement partially improved the epistemic quality of arguments being exchanged between agents. It substantially improved consideration of counterarguments and acknowledgment of opponents. However, grounding arguments in evidence remained weak across all setups. This could mean that procedural constraints enhance dialogue engagement but do not automatically enhance rigor of arguments.
